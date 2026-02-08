@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 mins          ████████████████▓░░░░░░░░   66.47 %
-CSV          0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-Other        0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
