@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         7 mins                ██████████▒░░░░░░░░░░░░░░   41.97 %
-Other        4 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Public Key   2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-SSH Config   1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Markdown     1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
